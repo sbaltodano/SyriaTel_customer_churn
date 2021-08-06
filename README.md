@@ -15,4 +15,14 @@ The final step will ultimately be the launch of a final program on existing clie
 #### Treating Type Errors
 In the Telecom industry it costs 5 times as much to attain new business then it does to maintain existing business. In dealing with type errors moving forward, type 2 errors pose the highest threat to SyriaTel’s company. Ideally, we will find a balance between the two type errors, but if that is not attainable, we are better off reducing type 2 errors despite the fact that it will lead to a subsequent increase in type 1 errors. In this case, a false positive (assuming a client will churn when they will not) is preferrable to a false negative (assuming that a client will not churn when they actually will).
 
-![Alt text](http://localhost:8888/view/Visuals/fig7.png)
+![](Visuals/fig7.png)
+
+
+
+![](Visuals/tessstttyyy.png)
+
+
+![](Visuals/proportions.png)
+![](Visuals/fig5.png)
+
+
